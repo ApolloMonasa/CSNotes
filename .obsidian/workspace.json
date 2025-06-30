@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainNotes/2.6逻辑代数常用公式.md",
+                "file": "MainNotes/2.9最大项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.6逻辑代数常用公式"
+              "title": "2.9最大项"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainNotes/2.6逻辑代数常用公式.md",
+                "file": "MainNotes/2.9最大项.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.6逻辑代数常用公式"
+              "title": "Outline of 2.9最大项"
             }
           }
         ],
@@ -197,21 +197,26 @@
   },
   "active": "700abfb4ec1c82e8",
   "lastOpenFiles": [
-    "MainNotes/2.5基本定律和规则.md",
+    "MainNotes/2.8最小项.md",
+    "Pictures/Pasted image 20250630195947.png",
+    "MainNotes/标准范式.md",
+    "Pictures/Pasted image 20250630195118.png",
+    "Pictures/Pasted image 20250630195117.png",
+    "Tags/Physics.md",
+    "MainNotes/2.9最大项.md",
+    "MainNotes/2.7逻辑函数变换.md",
+    "Pictures/Pasted image 20250630194533.png",
     "MainNotes/2.6逻辑代数常用公式.md",
-    "MainNotes/命题公式的等价演算.md",
-    "Pictures/Pasted image 20250630181855.png",
-    "Pictures/Pasted image 20250630180142.png",
-    "Pictures/Pasted image 20250630174345.png",
-    "Pictures/Pasted image 20250630174105.png",
-    "MainNotes/Markdown数学公式语法.md",
+    "Pictures/Pasted image 20250630193308.png",
     "MainNotes/2.4逻辑函数的形式转换.md",
-    "Pictures/Pasted image 20250630112300.png",
-    "Pictures/Pasted image 20250630112239.png",
-    "Pictures/Pasted image 20250630112009.png",
-    "Pictures/Pasted image 20250630111527.png",
-    "Pictures/Pasted image 20250630111234.png",
-    "Pictures/Pasted image 20250630110653.png",
+    "Pictures/Pasted image 20250630193040.png",
+    "Pictures/Pasted image 20250630192657.png",
+    "Pictures/Pasted image 20250630191110.png",
+    "Pictures/Pasted image 20250630190959.png",
+    "Pictures/Pasted image 20250630190613.png",
+    "MainNotes/2.5基本定律和规则.md",
+    "MainNotes/命题公式的等价演算.md",
+    "MainNotes/Markdown数学公式语法.md",
     "MainNotes/2.3逻辑函数的表示形式.md",
     "MainNotes/2.11卡诺图概念.md",
     "MainNotes/[[2.11卡诺图概念]].md",
@@ -227,12 +232,6 @@
     "MainNotes/1.1数制和编码.md",
     "Tags/Notion Tutorial.md",
     "Tags/人工智能导论.md",
-    "MainNotes/Stardew Valley.md",
-    "MainNotes/GameReview.md",
-    "MainNotes/2.2复合运算.md",
-    "MainNotes/2.7逻辑函数变换.md",
-    "MainNotes/2.8最小项.md",
-    "MainNotes/标准范式.md",
     "Pictures",
     "Templates",
     "RoughNotes",
