@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Cascadia Mono",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "custom-rainbow-colors"
+  ]
+}
