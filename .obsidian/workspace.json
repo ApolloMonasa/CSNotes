@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainNotes/2.10逻辑函数的代数化简法.md",
+                "file": "MainNotes/4.1组合逻辑电路的分析和设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.10逻辑函数的代数化简法"
+              "title": "4.1组合逻辑电路的分析和设计"
             }
           },
           {
@@ -43,6 +43,20 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "eec1a8415e767ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainNotes/CS50计算机科学导论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS50计算机科学导论"
             }
           }
         ],
@@ -167,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainNotes/2.10逻辑函数的代数化简法.md",
+                "file": "MainNotes/4.1组合逻辑电路的分析和设计.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.10逻辑函数的代数化简法"
+              "title": "Outline of 4.1组合逻辑电路的分析和设计"
             }
           }
         ],
@@ -197,42 +211,42 @@
   },
   "active": "700abfb4ec1c82e8",
   "lastOpenFiles": [
-    "Pictures/Pasted image 20250701151612.png",
-    "Pictures/Pasted image 20250701151108.png",
-    "Pictures/Pasted image 20250701150721.png",
-    "Pictures/Pasted image 20250701150708.png",
-    "Pictures/Pasted image 20250701150328.png",
+    "MainNotes/3.7其他CMOS逻辑门.md",
+    "Pictures/Pasted image 20250702224821.png",
+    "Pictures/Pasted image 20250702224305.png",
+    "Pictures/Pasted image 20250702224116.png",
+    "Pictures/Pasted image 20250702224059.png",
+    "Pictures/Pasted image 20250702223920.png",
+    "Pictures/Pasted image 20250702223732.png",
+    "Pictures/Pasted image 20250702223152.png",
+    "Pictures/Pasted image 20250702223049.png",
+    "MainNotes/3.6CMOS复合逻辑.md",
+    "Pictures/Pasted image 20250702222826.png",
+    "Pictures/Pasted image 20250702222507.png",
+    "MainNotes/3.5CMOS与非门与或非门.md",
+    "MainNotes/3.4CMOS反相器.md",
+    "Navigator.md",
+    "MainNotes/CS50计算机科学导论.md",
+    "MainNotes/3.3MOS开关的非理想性.md",
+    "MainNotes/3.2MOS开关.md",
+    "MainNotes/3.1开关逻辑.md",
+    "MainNotes/Markdown数学公式语法.md",
+    "Untitled.canvas",
+    "MainNotes/2.16非完全描述逻辑函数.md",
+    "MainNotes/2.15逻辑函数的卡诺图化简.md",
+    "MainNotes/2.14卡诺图合并规律.md",
+    "MainNotes/2.13卡诺图的特点.md",
+    "MainNotes/2.12逻辑函数的卡诺图表示.md",
+    "MainNotes/2.11卡诺图概念.md",
+    "Tags/数字电路设计.md",
+    "MainNotes/2.1基本运算.md",
+    "RoughNotes/0.1前言.md",
+    "MainNotes/1.1数制和编码.md",
     "MainNotes/2.10逻辑函数的代数化简法.md",
-    "Pictures/Pasted image 20250701145742.png",
-    "Pictures/Pasted image 20250701145608.png",
     "Templates/Note.md",
     "MainNotes/2.9最大项.md",
     "MainNotes/2.8最小项.md",
-    "Pictures/Pasted image 20250701105817.png",
     "README.md",
-    "Pictures/Pasted image 20250701104649.png",
-    "Pictures/Pasted image 20250701095254.png",
-    "Pictures/Pasted image 20250630195947.png",
-    "MainNotes/标准范式.md",
-    "Tags/Physics.md",
-    "MainNotes/2.7逻辑函数变换.md",
-    "MainNotes/2.6逻辑代数常用公式.md",
-    "MainNotes/2.4逻辑函数的形式转换.md",
-    "MainNotes/2.5基本定律和规则.md",
-    "MainNotes/命题公式的等价演算.md",
-    "MainNotes/Markdown数学公式语法.md",
-    "MainNotes/2.3逻辑函数的表示形式.md",
-    "MainNotes/2.11卡诺图概念.md",
-    "MainNotes/[[2.11卡诺图概念]].md",
-    "Navigator.md",
-    "MainNotes/主题美化.md",
-    "MainNotes/AnuPpuccin.md",
-    "MainNotes/CheckBox.md",
-    "MainNotes/code.md",
-    "MainNotes/style.md",
-    "Tags/数字电路设计.md",
-    "MainNotes/2.1基本运算.md",
-    "MainNotes/1.1数制和编码.md",
     "Pictures",
     "Templates",
     "RoughNotes",

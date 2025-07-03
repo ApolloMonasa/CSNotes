@@ -4,7 +4,7 @@
   "interfaceFontFamily": "Cascadia Mono",
   "textFontFamily": "Cascadia Mono",
   "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 17,
+  "baseFontSize": 15,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "extended-colorschemes",
