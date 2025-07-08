@@ -3,5 +3,12 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "MainNotes",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Pictures"
+  "attachmentFolderPath": "Pictures",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

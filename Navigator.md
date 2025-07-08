@@ -1,8 +1,16 @@
 [[C++]]
 
-[[CS50计算机科学导论]]
+[[Java]]
 
 [[数据结构]]
+
+[[CS50计算机科学导论]]
+
+[[CS50 Introduction To AI]]
+
+[[Discrete Mathematics and Its Applications]]
+
+[[计算机网络]]
 
 [[同济高数]]
 
@@ -20,10 +28,8 @@
 
 [[人工智能导论]]
 
-[[Introduction To AI]]
-
 [[Notion Tutorial]]
 
-[[GameReview]]
-
 [[主题美化]]
+
+[[游戏]]
