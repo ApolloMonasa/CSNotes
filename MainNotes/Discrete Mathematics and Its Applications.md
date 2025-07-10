@@ -1,5 +1,6 @@
 > DATA: 2025-07-08 16:10
 > Author: [ApolloMonasa](https://github.com/ApolloMonasa)
+> #离散数学 
 
 
 > [!NOTE] Intro
