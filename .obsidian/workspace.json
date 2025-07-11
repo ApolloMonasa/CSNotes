@@ -25,10 +25,14 @@
             "id": "4b7b2176948a22aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "MainNotes/2.2 链表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 链表"
             }
           },
           {
@@ -74,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +101,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -195,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainNotes/Java.md",
+                "file": "MainNotes/2.2 链表.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Java 的大纲"
+              "title": "Outline of 2.2 链表"
             }
           }
         ],
@@ -213,32 +217,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "15d16a5111ace676",
+  "active": "4b7b2176948a22aa",
   "lastOpenFiles": [
-    "MainNotes/Turing Complete.md",
-    "MainNotes/Git教程.md",
+    "Pictures/Pasted image 20250711114413.png",
+    "Pictures/Pasted image 20250711105420.png",
+    "Pictures/Pasted image 20250711103409.png",
+    "Pictures/Pasted image 20250711103322.png",
+    "Pictures/Pasted image 20250711103252.png",
+    "Pictures/Pasted image 20250711101809.png",
+    "Templates/Note.md",
+    "MainNotes/2.2 链表.md",
+    "Tags/数据结构.md",
+    "Navigator.md",
     "MainNotes/Java.md",
+    "MainNotes/Turing Complete.md",
     "MainNotes/Discrete Mathematics and Its Applications.md",
+    "MainNotes/Git教程.md",
     "MainNotes/1.3 空间复杂度.md",
     "MainNotes/1.2 均摊时间复杂度.md",
     "MainNotes/1.1 时间复杂度.md",
     "MainNotes/2.1 顺序表.md",
-    "Templates/Note.md",
-    "Tags/数据结构.md",
     "MainNotes/归并排序.md",
     "Tags/Introduction To AI.md",
-    "Navigator.md",
     "Tags/工具.md",
     "Templates/Infer.md",
     "Tags/游戏.md",
@@ -250,18 +261,11 @@
     "MainNotes/CheckBox.md",
     "MainNotes/GameReview.md",
     "MainNotes/6.10同步时序电路设计4.md",
-    "MainNotes/6.12集成时序逻辑器件-级联.md",
     "Pictures/Pasted image 20250708155129.png",
-    "MainNotes/6.9同步时序电路设计3.md",
     "Pictures/Pasted image 20250708154801.png",
     "Pictures/Pasted image 20250708154626.png",
     "Pictures/Pasted image 20250708154401.png",
     "Pictures/Pasted image 20250708153218.png",
-    "Pictures/Pasted image 20250708152111.png",
-    "Pictures/Pasted image 20250708150452.png",
-    "Pictures/Pasted image 20250708150201.png",
-    "Pictures/Pasted image 20250708144348.png",
-    "Pictures/Pasted image 20250708125145.png",
     "ResourceMaterial/computer-networking-a-top-down-approach-8th-edition.pdf",
     "ResourceMaterial/computer-networking-a-top-down-approach-8th-edition.pdf.crdownload",
     "Untitled.canvas",
