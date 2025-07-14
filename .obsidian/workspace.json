@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainNotes/2.2 链表.md",
+                "file": "MainNotes/2.3 单链表的应用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 链表"
+              "title": "2.3 单链表的应用"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainNotes/2.2 链表.md",
+                "file": "MainNotes/2.3 单链表的应用.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.2 链表"
+              "title": "Outline of 2.3 单链表的应用"
             }
           }
         ],
@@ -230,20 +230,26 @@
   },
   "active": "4b7b2176948a22aa",
   "lastOpenFiles": [
-    "Pictures/Pasted image 20250711114413.png",
-    "Pictures/Pasted image 20250711105420.png",
-    "Pictures/Pasted image 20250711103409.png",
-    "Pictures/Pasted image 20250711103322.png",
-    "Pictures/Pasted image 20250711103252.png",
-    "Pictures/Pasted image 20250711101809.png",
-    "Templates/Note.md",
-    "MainNotes/2.2 链表.md",
+    "Pictures/Pasted image 20250713165315.png",
+    "MainNotes/Discrete Mathematics and Its Applications.md",
+    "MainNotes/Turing Complete.md",
+    "MainNotes/Git教程.md",
+    "MainNotes/2.3 单链表的应用.md",
+    "Pictures/Pasted image 20250713164552.png",
+    "Pictures/Pasted image 20250713163609.png",
+    "Pictures/Pasted image 20250713122309.png",
+    "Pictures/Pasted image 20250713115909.png",
+    "Pictures/Pasted image 20250713113409.png",
+    "Pictures/Pasted image 20250712220743.png",
+    "Pictures/Pasted image 20250712215533.png",
+    "Pictures/Pasted image 20250712215400.png",
+    "Pictures/Pasted image 20250712195724.png",
+    "Pictures/Pasted image 20250712195622.png",
     "Tags/数据结构.md",
+    "MainNotes/2.2 链表.md",
+    "Templates/Note.md",
     "Navigator.md",
     "MainNotes/Java.md",
-    "MainNotes/Turing Complete.md",
-    "MainNotes/Discrete Mathematics and Its Applications.md",
-    "MainNotes/Git教程.md",
     "MainNotes/1.3 空间复杂度.md",
     "MainNotes/1.2 均摊时间复杂度.md",
     "MainNotes/1.1 时间复杂度.md",
@@ -260,12 +266,6 @@
     "Templates/INDEX.md",
     "MainNotes/CheckBox.md",
     "MainNotes/GameReview.md",
-    "MainNotes/6.10同步时序电路设计4.md",
-    "Pictures/Pasted image 20250708155129.png",
-    "Pictures/Pasted image 20250708154801.png",
-    "Pictures/Pasted image 20250708154626.png",
-    "Pictures/Pasted image 20250708154401.png",
-    "Pictures/Pasted image 20250708153218.png",
     "ResourceMaterial/computer-networking-a-top-down-approach-8th-edition.pdf",
     "ResourceMaterial/computer-networking-a-top-down-approach-8th-edition.pdf.crdownload",
     "Untitled.canvas",
